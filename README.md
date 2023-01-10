@@ -1,10 +1,7 @@
 # Online Dev Resources
 
 > *A place where I keep all the online resources I use.*
-
-<br/>
-<br/>
-
+  
 ## Links:
 
 #### ------- Resources -------
