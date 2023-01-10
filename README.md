@@ -5,7 +5,7 @@
 
 ## Links:
 
-#### ------- Resources -------
+#### -- Resources --
 
 [Azure](https://portal.azure.com "Login to Azure.")  
 [GitHub](https://www.github.com/ "You are here already.")  
@@ -13,6 +13,6 @@
 [Electron](https://www.electronjs.org/ "Build cross-platform desktop apps with JavaScript, HTML, and CSS.")  
 [MarkDown-Guide](https://www.markdownguide.org "Everything you need to learn Markdown.")  
 
-#### ------- Blogs -------
+#### -- Blogs --
 
 [Simurai](https://simurai.com/ "Designer at GitHub, working on Atom and Electron.")  
