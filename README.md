@@ -17,6 +17,17 @@
 [Git](https://git-scm.com/ "A distributed version control system.")  
 [GitHub](https://www.github.com/ "You are here already.")  
 
+#### -- Coding Languages --
+
+[CSS](https://www.w3schools.com/css/ "Native web styling language.")  
+[HTML](https://www.w3schools.com/html/ "Native web content language.")  
+[JavaScript](https://www.w3schools.com/js/ "A scripting language.")  
+[JQuery](https://www.w3schools.com/jquery/ "A sctipting language based on JavaScript.")  
+[CoffeeScript](https://coffeescript.org/ "A sctipting language based on JavaScript.")  
+[Python](https://www.python.org/ " -- OOP -- ")  
+[C#](https://www.w3schools.com/cs/ "A programming language that runs on the .NET Framework.")  
+[C++](https://www.w3schools.com/cpp/ "A more powerfull C language.")  
+
 #### -- Blogs --
 
 [Simurai](https://simurai.com/ "Designer at GitHub, working on Atom and Electron.")  
